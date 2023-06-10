@@ -2,4 +2,5 @@
 #
 # Seeding algorithm to generate new random numbers
 # (c) Ferris Kleier 2023
-# 
+# on https://github.com/Nachtschrecken/Seedgen
+
